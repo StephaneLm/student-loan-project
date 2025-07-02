@@ -1,0 +1,16 @@
+# Python & Docker
+__pycache__/
+*.pyc
+.env
+# Airflow
+infrastructure/logs/
+infrastructure/airflow_home/
+# Data
+data/processed/
+data/raw/
+# VSCode
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+
